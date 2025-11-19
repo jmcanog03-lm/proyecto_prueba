@@ -7,4 +7,8 @@ public class App {
     public static void funcion_syso(){
         System.out.println("Esto es una función");
     }
+
+    public static void funcion_caballo(){
+        System.out.println("El caballo sale en");
+    }
 }
